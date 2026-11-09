@@ -33,6 +33,6 @@
   "homepage": "https://github.com/ktquez/vue-extend-layout#readme",
   "devDependencies": {
     "cypress": "^2.1.0",
-    "standard-version": "^4.3.0"
+    "standard-version": "^9.5.0"
   }
 }
